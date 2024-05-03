@@ -1,0 +1,15 @@
+{
+  "translation": {
+    "lang": {
+      "es": "Español",
+      "en": "Inglés"
+    },
+    "home": {
+      "title": "Titulo de la home",
+      "subtitle": "subtitulo de la home",
+      "meh":{
+        "1": "uno"
+      }
+    }
+  }
+}

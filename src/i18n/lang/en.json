@@ -1,0 +1,15 @@
+{
+  "translation": {
+    "lang": {
+      "es": "Spanish",
+      "en": "English"
+    },
+    "home": {
+      "title": "Home title",
+      "subtitle": "Home subtitle",
+      "meh": {
+        "1": "one"
+      }
+    }
+  }
+}
